@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Lenzart Photography]]></title>
         <description><![CDATA[Lenzart Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lenzart-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 20:24:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 20:39:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lenzart-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31c7dd38-e7f1-432e-bbe4-a8021445986f.jpg">]]></description>
-            <link>undefined50e3a615-71a7-483c-9b0f-605d03dd4bd9/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/91f8ee77-ed28-44e3-a91a-e424fe2a687f.jpg">]]></description>
+            <link>https://thegrid.ai/lenzart-photography/50e3a615-71a7-483c-9b0f-605d03dd4bd9/index.html</link>
             <guid isPermaLink="false">50e3a615-71a7-483c-9b0f-605d03dd4bd9</guid>
-            <pubDate>Wed, 13 Apr 2016 20:24:58 GMT</pubDate>
+            <pubDate>Wed, 13 Apr 2016 20:39:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
